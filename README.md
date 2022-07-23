@@ -33,4 +33,4 @@
   
 
 
-![snake svg](https://github.com/la-98/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/la-98/la-98/blob/output/github-contribution-grid-snake.svg)
