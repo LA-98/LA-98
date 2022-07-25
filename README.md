@@ -30,7 +30,3 @@
   target="_blank"></a>
 
 </div>
-  
-
-
-![snake svg](https://github.com/LA-98/LA-98/blob/output/github-contribution-grid-snake.svg)
